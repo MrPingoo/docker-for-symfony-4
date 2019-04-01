@@ -1,0 +1,14 @@
+.docker/data
+.docker/logs
+.docker-sync
+html/.DS_Store
+html/.env
+html/bin
+html/phpunit.xml.dist
+html/public
+html/symfony.lock
+html/var
+html/vendor
+.idea/
+logs
+sql
