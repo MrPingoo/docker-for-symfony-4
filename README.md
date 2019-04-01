@@ -76,7 +76,7 @@ For Mac I created a Makefile to run Docker-sync with only one command :
 > Make start_dev
 
 > On Windows you can use : 
-> Make start_dev
+> docker-sync start
 
 ### Stop your Docker :
 
@@ -84,7 +84,7 @@ For Mac I created a Makefile to run Docker-sync with only one command :
 > Make stop_dev
 
 > On Windows you can use : 
-> Make start_dev
+> docker-sync stop
 
 ### Execute a command on your DB : 
 
